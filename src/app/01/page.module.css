@@ -1,0 +1,10 @@
+.page {
+  padding : 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--box-color);
+  color: #333;
+  text-align: center;
+}
